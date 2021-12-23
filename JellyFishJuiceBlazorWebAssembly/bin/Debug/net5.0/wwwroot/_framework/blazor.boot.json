@@ -195,13 +195,13 @@
       "mscorlib.dll": "sha256-0qsbc1acYr3S6P7t9gSYyghOhMVs3CTJ9ukQ1VXqksY=",
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
-      "JellyFishJuiceBlazorWebAssembly.dll": "sha256-GyYhyjfpi9Kdj6Ljmwqi0FxmiOwTPT5EFAYSEMkZ35s="
+      "JellyFishJuiceBlazorWebAssembly.dll": "sha256-ApM2CyLBW+KILZv2mKgVlcSyGnYTZefxoVpdmOaMhQ0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "JellyFishJuiceBlazorWebAssembly.pdb": "sha256-M0lV8HIeXnBOZiolomBw99xoTVc2e2BRI9jMpO94Z+w="
+      "JellyFishJuiceBlazorWebAssembly.pdb": "sha256-u41uRTd7jTPwLXZMpSkQ8iM0yXmJ\/50dUvG8DYKaYrQ="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",
