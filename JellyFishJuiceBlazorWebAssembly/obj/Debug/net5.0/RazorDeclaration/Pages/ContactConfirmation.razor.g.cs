@@ -82,44 +82,14 @@ using JellyFishJuiceBlazorWebAssembly.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 46 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Pages\Index.razor"
-using JellyFishJuiceBlazorWebAssembly.Models;
-
-#line default
-#line hidden
-#nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
-    public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/contact-confirmation")]
+    public partial class ContactConfirmation : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 46 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Pages\Index.razor"
-                                                  
-
-    public Contact Contact = new Contact();
-
-    IReadOnlyList<IBrowserFile> selectedFiles;
-
-    private void OnInputFileChange(InputFileChangeEventArgs e)
-    {
-        selectedFiles = e.GetMultipleFiles(3);
-    }
-
-    private async void HandleValidSubmit()
-    {
-        Contact.SubmittedTime = DateTime.UtcNow;
-        //await ContactService.PostContact(Contact, selectedFiles);
-        //NavManager.NavigateTo("contact-confirmation");
-    }
-
-#line default
-#line hidden
-#nullable disable
     }
 }
 #pragma warning restore 1591

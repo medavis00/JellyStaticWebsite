@@ -630,3 +630,5 @@ C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\o
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.dll
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\ref\JellyFishJuiceBlazorWebAssembly.dll
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.pdb
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Pages\ContactConfirmation.razor.g.cs
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Pages\ContactConfirmation.razor.g.cs
