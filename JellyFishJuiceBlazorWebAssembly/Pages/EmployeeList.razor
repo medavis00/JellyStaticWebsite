@@ -1,0 +1,64 @@
+﻿@page "/employeelist"
+@inject HttpClient Http
+@using JellyFishJuiceBlazorWebAssembly.Services
+
+
+<h3>Employee List</h3>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (employeeList == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>First Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in employeeList)
+            {
+                <tr>
+                    <td>@item.FirstName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    //private Employee[] emps;
+
+    //protected override async Task OnInitializedAsync()
+    //{
+    //emps = await Http.GetFromJsonAsync<Employee[]>("sample-data/weather.json");
+
+    // return HttpResponseMessage
+    //var res = await httpClient.GetAsync<List<Employee>>("/api/employeelist");
+    //}
+
+    private List<Employee> employeeList = fakeData();
+
+    public static List<Employee> fakeData()
+    {
+        Employee emp = new Employee();
+        List<Employee> emps = new List<Employee>();
+
+        Employee emp1 = new Employee();
+        emp1.FirstName = "Employee 01";
+
+        Employee emp2 = new Employee();
+        emp2.FirstName = "Employee 02";
+
+        emps.Add(emp1);
+        emps.Add(emp2);
+
+        return emps;
+
+    }
+
+}

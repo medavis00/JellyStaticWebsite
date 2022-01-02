@@ -396,7 +396,6 @@ C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\b
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.13.js
-C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.csproj.AssemblyReference.cache
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.AssemblyInfoInputs.cache
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.AssemblyInfo.cs
@@ -404,7 +403,9 @@ C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\o
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.RazorComponent.input.cache
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Pages\ContactConfirmation.razor.g.cs
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeeList.razor.g.cs
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
@@ -417,7 +418,9 @@ C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\o
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.TagHelpers.output.cache
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.RazorCoreGenerate.cache
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Pages\ContactConfirmation.razor.g.cs
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Pages\EmployeeList.razor.g.cs
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
@@ -630,5 +633,4 @@ C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\o
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.dll
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\ref\JellyFishJuiceBlazorWebAssembly.dll
 C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.pdb
-C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Pages\ContactConfirmation.razor.g.cs
-C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Pages\ContactConfirmation.razor.g.cs
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.csproj.AssemblyReference.cache

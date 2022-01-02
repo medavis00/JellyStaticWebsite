@@ -117,6 +117,10 @@ using JellyFishJuiceBlazorWebAssembly.Models;
         //NavManager.NavigateTo("contact-confirmation");
     }
 
+
+    //WeatherForecastController wc = new WeatherForecastController();
+
+
 #line default
 #line hidden
 #nullable disable
