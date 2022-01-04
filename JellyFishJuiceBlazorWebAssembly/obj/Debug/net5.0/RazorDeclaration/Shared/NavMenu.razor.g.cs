@@ -82,6 +82,20 @@ using JellyFishJuiceBlazorWebAssembly.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\_Imports.razor"
+using JellyStaticBlazor.Common;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\_Imports.razor"
+using JellyFishJuiceBlazorWebAssembly.Services;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,7 +104,7 @@ using JellyFishJuiceBlazorWebAssembly.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 33 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Shared\NavMenu.razor"
+#line 43 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JellyFishJuiceBlazorWebAssembly", "JellyFishJuiceBlazorWebAssembly\JellyFishJuiceBlazorWebAssembly.csproj", "{B1BDB752-B975-4FD4-A6D6-03123DBCE05A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JellyStaticBlazor.API", "JellyStaticBlazor.API\JellyStaticBlazor.API.csproj", "{ADB9939D-4C88-4E76-AF9E-2C65B3EF9FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JellyStaticBlazor.Common", "JellyStaticBlazor.Common\JellyStaticBlazor.Common.csproj", "{85542AA0-5526-4148-BD6E-D0EDF29B7CB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B1BDB752-B975-4FD4-A6D6-03123DBCE05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1BDB752-B975-4FD4-A6D6-03123DBCE05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1BDB752-B975-4FD4-A6D6-03123DBCE05A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB9939D-4C88-4E76-AF9E-2C65B3EF9FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB9939D-4C88-4E76-AF9E-2C65B3EF9FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB9939D-4C88-4E76-AF9E-2C65B3EF9FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB9939D-4C88-4E76-AF9E-2C65B3EF9FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85542AA0-5526-4148-BD6E-D0EDF29B7CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85542AA0-5526-4148-BD6E-D0EDF29B7CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85542AA0-5526-4148-BD6E-D0EDF29B7CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85542AA0-5526-4148-BD6E-D0EDF29B7CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

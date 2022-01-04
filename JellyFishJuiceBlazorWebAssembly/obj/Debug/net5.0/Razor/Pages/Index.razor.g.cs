@@ -80,6 +80,20 @@ using JellyFishJuiceBlazorWebAssembly.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\_Imports.razor"
+using JellyStaticBlazor.Common;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\_Imports.razor"
+using JellyFishJuiceBlazorWebAssembly.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 46 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Pages\Index.razor"
 using JellyFishJuiceBlazorWebAssembly.Models;
 

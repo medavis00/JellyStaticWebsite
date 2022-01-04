@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.API\\JellyStaticBlazor.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyFishJuiceBlazorWebAssembly\\JellyFishJuiceBlazorWebAssembly.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyFishJuiceBlazorWebAssembly\\JellyFishJuiceBlazorWebAssembly.csproj",
+        "projectName": "JellyFishJuiceBlazorWebAssembly",
+        "projectPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyFishJuiceBlazorWebAssembly\\JellyFishJuiceBlazorWebAssembly.csproj",
+        "packagesPath": "C:\\Users\\medav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyFishJuiceBlazorWebAssembly\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\medav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj": {
+                "projectPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.API\\JellyStaticBlazor.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.API\\JellyStaticBlazor.API.csproj",
+        "projectName": "JellyStaticBlazor.API",
+        "projectPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.API\\JellyStaticBlazor.API.csproj",
+        "packagesPath": "C:\\Users\\medav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\medav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyFishJuiceBlazorWebAssembly\\JellyFishJuiceBlazorWebAssembly.csproj": {
+                "projectPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyFishJuiceBlazorWebAssembly\\JellyFishJuiceBlazorWebAssembly.csproj"
+              },
+              "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj": {
+                "projectPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj",
+        "projectName": "JellyStaticBlazor.Common",
+        "projectPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj",
+        "packagesPath": "C:\\Users\\medav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\medav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
