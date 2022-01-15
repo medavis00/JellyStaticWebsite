@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="/" Path="C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\wwwroot\" />
 </StaticWebAssets>

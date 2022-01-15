@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj": {}
+    "C:\\Users\\medav\\Source\\Repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj": {
+    "C:\\Users\\medav\\Source\\Repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj",
+        "projectUniqueName": "C:\\Users\\medav\\Source\\Repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj",
         "projectName": "JellyStaticBlazor.Common",
-        "projectPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj",
+        "projectPath": "C:\\Users\\medav\\Source\\Repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\JellyStaticBlazor.Common.csproj",
         "packagesPath": "C:\\Users\\medav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\obj\\",
+        "outputPath": "C:\\Users\\medav\\Source\\Repos\\JellyStaticWebsite\\JellyStaticBlazor.Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\medav\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

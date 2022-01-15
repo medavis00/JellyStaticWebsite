@@ -1,0 +1,36 @@
+﻿@page "/codetests"
+
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+@using JellyFishJuiceBlazorWebAssembly.Controllers
+
+
+
+
+@inject HttpClient Http
+@inject ITestService TestService
+
+@if (codecamps == null)
+{
+    <p>No Todo Items found.</p>
+}
+else
+{
+    <ul>
+        @foreach (var item in codecamps)
+        {
+            <li>@item.Name</li>
+        }
+    </ul>
+}
+
+@code {
+
+    public List<TestDTO> codecamps = new List<TestDTO>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        codecamps = await TestService.GetTests();
+    }
+}

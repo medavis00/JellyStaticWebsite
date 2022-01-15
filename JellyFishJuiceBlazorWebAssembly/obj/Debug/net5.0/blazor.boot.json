@@ -216,15 +216,15 @@
       "mscorlib.dll": "sha256-0qsbc1acYr3S6P7t9gSYyghOhMVs3CTJ9ukQ1VXqksY=",
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
-      "JellyStaticBlazor.Common.dll": "sha256-CqpmXfhgoXjm0lgIgkAFdeV+R82q6Pj7LBgWx2adLNk=",
-      "JellyFishJuiceBlazorWebAssembly.dll": "sha256-ik77FCwz7ezCFha+EsimW+YbfkaKlCCKrOcWx0wHXM8="
+      "JellyStaticBlazor.Common.dll": "sha256-97zhifCiAliRAeX2KPHHWyZ\/5nVrIfsnyZ+b7z6j3k8=",
+      "JellyFishJuiceBlazorWebAssembly.dll": "sha256-+ULe+Ijv\/5nPmWMpShCC9zdokpkDC02umEM1ILXCX+Q="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "JellyStaticBlazor.Common.pdb": "sha256-9Cu2HveW9ajfXKrwjceRTud3foa+b+6sZxCTMST4M+k=",
-      "JellyFishJuiceBlazorWebAssembly.pdb": "sha256-Lib6WyygOdxSBefF+5KYj5wRfUPQM2Re3u7aH0Dh6wI="
+      "JellyStaticBlazor.Common.pdb": "sha256-sVkjVrL52Bd6W9vnpOwPoVpYFIq5eCv3\/crWdkiz1Z8=",
+      "JellyFishJuiceBlazorWebAssembly.pdb": "sha256-NUdRlnJVm4\/9JSm6zzj3b8Hj+QydjKbU6XIVIAiUckE="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",
