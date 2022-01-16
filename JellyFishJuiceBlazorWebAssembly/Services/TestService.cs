@@ -19,7 +19,24 @@ namespace JellyFishJuiceBlazorWebAssembly.Services
 
         public async Task<List<TestDTO>> GetTests()
         {
-            return await _httpClient.GetFromJsonAsync<List<TestDTO>>("api/test");
+
+            //try
+            //{
+                // call the rest api
+                return await _httpClient.GetFromJsonAsync<List<TestDTO>>("api/test");
+            //}
+
+            //catch (RestClientException e)
+            //{
+            //    //process exception
+            //    if (e instanceof HttpStatusCodeException){
+            //        String responseText = ((HttpStatusCodeException)e).getResponseBodyAsString();
+            //        //now you have the response, construct json from it, and extract the errors
+            //        System.out.println("Exception :" + responseText);
+            //    }
+
+            //}
+
         }
     }
 

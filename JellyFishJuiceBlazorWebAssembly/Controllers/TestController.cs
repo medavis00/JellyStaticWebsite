@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,16 @@ namespace JellyFishJuiceBlazorWebAssembly.Controllers
         [HttpGet]
         public async Task<IActionResult> GetTests()
         {
-            return Ok(tests);
+            try
+            {
+                //var results = await _repository.Get()...
+                return Ok(tests);
+            }
+            catch (Exception)
+            {
+                return this.StatusCode(StatusCodes.Status500InternalServerError, "Database Error");
+            }
+
         }
     }
 }

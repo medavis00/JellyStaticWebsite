@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4DJApeM01py9vi1nHlWztGPnsAZf++HjtZ4vgzKwWKbhP65fytHoR/k3BrLI9ud5mBcLT+pWIo8ynuZWPs1JXQ==",
+  "dgSpecHash": "VKJc9gHS9G7n8h8VtvVyavVnnJWg0ivaQUBePlg+0auIItMWwRwLk4uFNLr/6I7QjpGeweRx03cxgeIUXCqc5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\medav\\Source\\Repos\\JellyStaticWebsite\\JellyFishJuiceBlazorWebAssembly\\JellyFishJuiceBlazorWebAssembly.csproj",
+  "projectFilePath": "C:\\Users\\medav\\source\\repos\\JellyStaticWebsite\\JellyFishJuiceBlazorWebAssembly\\JellyFishJuiceBlazorWebAssembly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\medav\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\medav\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

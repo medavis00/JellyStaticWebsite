@@ -690,8 +690,6 @@ C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\o
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\build-gz\MA4y4CAU.gz
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\build-gz\2fmeGO1H.gz
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\build-gz\FPGUMunV.gz
-C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\build-gz\GdLSVRrE.gz
-C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\build-gz\vPheCNdn.gz
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\scopedcss\bundle\JellyFishJuiceBlazorWebAssembly.styles.css
@@ -705,3 +703,5 @@ C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\o
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\JellyFishJuiceBlazorWebAssembly.pdb
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\RazorDeclaration\Pages\CodeTests.razor.g.cs
 C:\Users\medav\Source\Repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\Razor\Pages\CodeTests.razor.g.cs
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\build-gz\AsSTsB5j.gz
+C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\obj\Debug\net5.0\build-gz\s0OqWIyO.gz
