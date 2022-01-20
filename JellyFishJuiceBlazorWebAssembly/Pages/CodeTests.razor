@@ -11,14 +11,15 @@
 @inject HttpClient Http
 @inject ITestService TestService
 
-@if (codecamps == null)
+
+@if (tests == null)
 {
     <p>No Todo Items found.</p>
 }
 else
 {
     <ul>
-        @foreach (var item in codecamps)
+        @foreach (var item in tests)
         {
             <li>@item.Name</li>
         }
@@ -27,10 +28,10 @@ else
 
 @code {
 
-    public List<TestDTO> codecamps = new List<TestDTO>();
+    public List<TestDTO> tests = new List<TestDTO>();
 
     protected override async Task OnInitializedAsync()
     {
-        codecamps = await TestService.GetTests();
+        tests = await TestService.GetTests();
     }
 }

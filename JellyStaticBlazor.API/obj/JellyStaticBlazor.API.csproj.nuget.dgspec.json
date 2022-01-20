@@ -48,14 +48,22 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.41.0, )"
+            },
+            "Grpc.Net.Client.Web": {
+              "target": "Package",
+              "version": "[2.41.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[5.0.13, )"
+              "version": "[5.0.4, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.13, )"
+              "version": "[5.0.4, )"
             },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
@@ -64,6 +72,14 @@
             "System.Net.Http.Json": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "protobuf-net.Grpc": {
+              "target": "Package",
+              "version": "[1.0.152, )"
             }
           },
           "imports": [
@@ -143,9 +159,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Grpc.AspNetCore.Web": {
+              "target": "Package",
+              "version": "[2.41.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[5.0.13, )"
+            },
+            "protobuf-net.Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.152, )"
             }
           },
           "imports": [
@@ -209,6 +233,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "protobuf-net.Grpc": {
+              "target": "Package",
+              "version": "[1.0.22, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

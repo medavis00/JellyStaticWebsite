@@ -1,8 +1,14 @@
+using JellyStaticBlazor.API.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ProtoBuf.Grpc.Server;
+//using System.Linq;
+
 
 namespace JellyStaticBlazor.API
 {
@@ -18,9 +24,11 @@ namespace JellyStaticBlazor.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
-            services.AddControllers();
+            services.AddSingleton<PeopleService>();
+            services.AddSingleton<PersonsManager>();
+            services.AddControllersWithViews();
             services.AddRazorPages();
+            services.AddCodeFirstGrpc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,9 +51,11 @@ namespace JellyStaticBlazor.API
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseGrpcWeb();
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapGrpcService<PeopleService>().EnableGrpcWeb();
                 endpoints.MapRazorPages();
                 endpoints.MapControllers();
                 endpoints.MapFallbackToFile("index.html");

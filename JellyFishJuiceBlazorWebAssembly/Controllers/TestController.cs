@@ -21,6 +21,7 @@ namespace JellyFishJuiceBlazorWebAssembly.Controllers
         [HttpGet]
         public async Task<IActionResult> GetTests()
         {
+
             try
             {
                 //var results = await _repository.Get()...

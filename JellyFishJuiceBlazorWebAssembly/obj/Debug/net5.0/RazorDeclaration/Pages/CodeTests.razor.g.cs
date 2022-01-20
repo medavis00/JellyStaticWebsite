@@ -118,14 +118,14 @@ using JellyFishJuiceBlazorWebAssembly.Controllers;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Pages\CodeTests.razor"
+#line 29 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Pages\CodeTests.razor"
        
 
-    public List<TestDTO> codecamps = new List<TestDTO>();
+    public List<TestDTO> tests = new List<TestDTO>();
 
     protected override async Task OnInitializedAsync()
     {
-        codecamps = await TestService.GetTests();
+        tests = await TestService.GetTests();
     }
 
 #line default

@@ -104,7 +104,7 @@ using JellyFishJuiceBlazorWebAssembly.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 51 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Shared\NavMenu.razor"
+#line 56 "C:\Users\medav\source\repos\JellyStaticWebsite\JellyFishJuiceBlazorWebAssembly\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

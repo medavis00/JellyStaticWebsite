@@ -1,0 +1,15 @@
+﻿<SatelliteAssembly>
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\cs\System.Private.ServiceModel.resources.dll" Culture="cs" DestinationSubDirectory="cs\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\de\System.Private.ServiceModel.resources.dll" Culture="de" DestinationSubDirectory="de\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\es\System.Private.ServiceModel.resources.dll" Culture="es" DestinationSubDirectory="es\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\fr\System.Private.ServiceModel.resources.dll" Culture="fr" DestinationSubDirectory="fr\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\it\System.Private.ServiceModel.resources.dll" Culture="it" DestinationSubDirectory="it\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\ja\System.Private.ServiceModel.resources.dll" Culture="ja" DestinationSubDirectory="ja\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\ko\System.Private.ServiceModel.resources.dll" Culture="ko" DestinationSubDirectory="ko\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\pl\System.Private.ServiceModel.resources.dll" Culture="pl" DestinationSubDirectory="pl\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\pt-BR\System.Private.ServiceModel.resources.dll" Culture="pt-BR" DestinationSubDirectory="pt-BR\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\ru\System.Private.ServiceModel.resources.dll" Culture="ru" DestinationSubDirectory="ru\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\tr\System.Private.ServiceModel.resources.dll" Culture="tr" DestinationSubDirectory="tr\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\zh-Hans\System.Private.ServiceModel.resources.dll" Culture="zh-Hans" DestinationSubDirectory="zh-Hans\" />
+  <Assembly Name="C:\Users\medav\.nuget\packages\system.private.servicemodel\4.9.0\lib\netstandard2.0\zh-Hant\System.Private.ServiceModel.resources.dll" Culture="zh-Hant" DestinationSubDirectory="zh-Hant\" />
+</SatelliteAssembly>

@@ -117,7 +117,7 @@ using JellyFishJuiceBlazorWebAssembly.Services;
     private TodoItem[] todoItems;
 
     protected override async Task OnInitializedAsync() =>
-        todoItems = await Http.GetFromJsonAsync<TodoItem[]>("https://localhost:44324/api/TodoItems");
+        todoItems = await Http.GetFromJsonAsync<TodoItem[]>("https://jellyfishjuice"); // https://localhost:44324/api/TodoItems");
 
 #line default
 #line hidden
